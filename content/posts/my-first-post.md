@@ -83,6 +83,9 @@ A través de la narrativa visual en Internet, una empresa, sin gastar nada o muy
 
 Porque sé sincero: qué prefieres, ¿que te vendan un producto a través de un largo texto que debes leer, o a través de un divertido vídeo que en un par de minutos puedes ver?
 =======
+
+![texto_alternativo_imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmKNEvVC_IRwDU_1CJgcCjzl1Op28h5_5JD3LBqaYbV4jPyxZMA&s)
+
 MARKETING DIGITAL - VENTAJAS
 
 1. Presencia en línea 24/7: Disponibilidad para los clientes, en cualquier momento y en cualquier lugar.
@@ -97,12 +100,13 @@ MARKETING DIGITAL - VENTAJAS
 10. Oportunidad de crecimiento: Es importante proporcionar un lugar al que puedan referirse los inversores potenciales. 
 
 ## MARKETING DIGITAL - DESVENTAJAS
-![texto_alternativo_imagen](https://www.softzone.es/app/uploads/2016/12/perdidainternet.jpg)
 
 Entre las desventajas del Marketing Digital tenemos:
 #### 1. Hay clientes que no tienen acceso a Internet.
 
 Existen personas que no tienen acceso a Internet, lo cual hace que exista cierta limitante entre la publicidad y una cantidad de usuarios, que por falta de un medio no puedan conocer lo nuevo.
+
+![texto_alternativo_imagen](https://www.softzone.es/app/uploads/2016/12/perdidainternet.jpg)
 
 #### 2. Dependencia del Internet ¡Y puede fallar!
 
