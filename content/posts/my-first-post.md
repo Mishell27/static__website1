@@ -96,7 +96,7 @@ MARKETING DIGITAL - VENTAJAS
 9. Servicio al cliente en línea: Los clientes pueden recibir una respuesta al instante y ahorrar tiempo, lo que ayuda a fomentar relaciones positivas.
 10. Oportunidad de crecimiento: Es importante proporcionar un lugar al que puedan referirse los inversores potenciales. 
 
-MARKETING DIGITAL - DESVENTAJAS
+## MARKETING DIGITAL - DESVENTAJAS
 
 Entre las desventajas del Marketing Digital tenemos:
 1. Hay clientes que no tienen acceso a Internet.
@@ -105,13 +105,16 @@ Existen personas que no tienen acceso a Internet, lo cual hace que exista cierta
 
 2. Dependencia del Internet ¡Y puede fallar!
 
-En ocasiones el Internet fallas, por lo tanto el usuario puede presentar ciertos inconvenientes y por ende una muy mala experiencia. Puede ocasionar que el mismo se aleje, o en su defecto que se cree en él una mala imagen de la empresa.
+En ocasiones el Internet presenta fallas, por lo tanto el usuario puede presentar ciertos inconvenientes y por ende una muy mala experiencia. Puede ocasionar que el mismo se aleje, o en su defecto que se cree en él una mala imagen de la empresa.
 
-3. Descontento por no tener lo que vieron en la pantalla.
+3. El marketing digital no escapa de ser ignorado.
+
+Puede ser ignorado por muchos, ya que existen personas que cerran las publicidades y no las ven, en caso de que sea en la televisión cambian de canal, esto es una desventaja para las empresas.
+
+4. Descontento por no tener lo que vieron en la pantalla.
 
 Otra desventaja es que son muchos los usuarios que realizan las compras de forma online. Lo cual no permite el conocimiento físico del producto que se desee adquirir. Por lo que muchas veces se genera descontento. No es lo mismo que ven en las pantallas que lo que llega a sus manos.
 
 4. El Internet genera desconfianza.
 
 Se tiene que son muchas las personas que presentan un nivel de desconfianza sobre el Internet. Ya que tienen cierto miedo a la hora de realizar compras online, porque son muchos los que han sido estafados y engañados.
->>>>>>> f006f762515c21a993b4c463730f7c53eaf4cb2b
