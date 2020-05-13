@@ -1,7 +1,7 @@
 ---
 title: "Web Opportunities for Business"
 date: 2020-05-12T21:47:40-05:00
-draft: true
+draft: false
 ---
 # MARKETING DIGITAL - ESTRATEGIAS
 
@@ -65,6 +65,7 @@ Una vez que estos llegan a ti, y acceden al contenido que has generado, tendrás
 
 Es una estrategia que es vital para conseguir clientes y aumentar las ventas. El diseño tiene que estar adaptada para que se vea correctamente en un celular o Tablet y no sólo en una computadora.
 
+<<<<<<< HEAD
 
 
 **6. Narrativa visual para atraer clientes**
@@ -78,3 +79,36 @@ Todos estos datos son para que te des cuenta que usar elementos visuales en tu n
 A través de la narrativa visual en Internet, una empresa, sin gastar nada o muy poco dinero, puede llegar en muy poco tiempo a todo el público objetivo que desee.
 
 Porque sé sincero: qué prefieres, ¿que te vendan un producto a través de un largo texto que debes leer, o a través de un divertido vídeo que en un par de minutos puedes ver?
+=======
+MARKETING DIGITAL - VENTAJAS
+
+1. Presencia en línea 24/7: Disponibilidad para los clientes, en cualquier momento y en cualquier lugar.
+2. Intercambio de información: Permite comunicar información de interés entre compradores y vendedores. Ejemplo horarios de apertura, información de contacto, ubicación, etc.
+3. Credibilidad: Clientes desconfíen de cualquier negocio que no tenga un número de teléfono o una dirección física, y lo mismo puede decirse por no tener un sitio web y una dirección de correo electrónico.
+4. Reduce costos: Elimina la necesidad de un local físico que impliquen grandes costos operativos.
+5. Expansión del mercado: Permite que cualquiera, de cualquier parte del mundo, puede encontrar tu empresa y ser parte de tus clientes.
+6. Análisis del consumidor: Hoy en día es más fácil identificar los gustos e interés de clientes frecuentes. 
+7. Publicidad: El uso de redes sociales permite llegar a los clientes con mucha más precisión y confiabilidad
+8. Competitividad: Contar con presencia en la web pudiera atraer más clientes con respecto a la competencia.
+9. Servicio al cliente en línea: Los clientes pueden recibir una respuesta al instante y ahorrar tiempo, lo que ayuda a fomentar relaciones positivas.
+10. Oportunidad de crecimiento: Es importante proporcionar un lugar al que puedan referirse los inversores potenciales. 
+
+MARKETING DIGITAL - DESVENTAJAS
+
+Entre las desventajas del Marketing Digital tenemos:
+1. Hay clientes que no tienen acceso a Internet.
+
+Existen personas que no tienen acceso a Internet, lo cual hace que exista cierta limitante entre la publicidad y una cantidad de usuarios, que por falta de un medio no puedan conocer lo nuevo.
+
+2. Dependencia del Internet ¡Y puede fallar!
+
+En ocasiones el Internet fallas, por lo tanto el usuario puede presentar ciertos inconvenientes y por ende una muy mala experiencia. Puede ocasionar que el mismo se aleje, o en su defecto que se cree en él una mala imagen de la empresa.
+
+3. Descontento por no tener lo que vieron en la pantalla.
+
+Otra desventaja es que son muchos los usuarios que realizan las compras de forma online. Lo cual no permite el conocimiento físico del producto que se desee adquirir. Por lo que muchas veces se genera descontento. No es lo mismo que ven en las pantallas que lo que llega a sus manos.
+
+4. El Internet genera desconfianza.
+
+Se tiene que son muchas las personas que presentan un nivel de desconfianza sobre el Internet. Ya que tienen cierto miedo a la hora de realizar compras online, porque son muchos los que han sido estafados y engañados.
+>>>>>>> f006f762515c21a993b4c463730f7c53eaf4cb2b
