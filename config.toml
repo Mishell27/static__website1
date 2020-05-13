@@ -1,0 +1,5 @@
+baseURL = "https://Mishell27.github.io/static_website.git"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
+publishDir = "docs"
