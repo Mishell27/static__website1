@@ -97,6 +97,7 @@ MARKETING DIGITAL - VENTAJAS
 10. Oportunidad de crecimiento: Es importante proporcionar un lugar al que puedan referirse los inversores potenciales. 
 
 ## MARKETING DIGITAL - DESVENTAJAS
+![texto_alternativo_imagen](https://www.softzone.es/app/uploads/2016/12/perdidainternet.jpg)
 
 Entre las desventajas del Marketing Digital tenemos:
 #### 1. Hay clientes que no tienen acceso a Internet.
