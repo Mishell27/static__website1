@@ -3,6 +3,8 @@ title: "Web Opportunities for Business"
 date: 2020-05-12T21:47:40-05:00
 draft: false
 ---
+Grupo # 7
+
 # INTRODUCCION
 Actualmente el negocio en línea es la forma de Marketing con mayor fuerza a nivel mundial, cada vez más empresarios y emprendedores buscan ingresar a este mercado. 
 
