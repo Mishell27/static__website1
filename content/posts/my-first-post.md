@@ -68,8 +68,6 @@ Una vez que estos llegan a ti, y acceden al contenido que has generado, tendrás
 
 Es una estrategia que es vital para conseguir clientes y aumentar las ventas. El diseño tiene que estar adaptada para que se vea correctamente en un celular o Tablet y no sólo en una computadora.
 
-<<<<<<< HEAD
-
 
 **6. Narrativa visual para atraer clientes**
 
@@ -86,7 +84,7 @@ Porque sé sincero: qué prefieres, ¿que te vendan un producto a través de un 
 
 ![texto_alternativo_imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmKNEvVC_IRwDU_1CJgcCjzl1Op28h5_5JD3LBqaYbV4jPyxZMA&s)
 
-MARKETING DIGITAL - VENTAJAS
+## MARKETING DIGITAL - VENTAJAS
 
 1. Presencia en línea 24/7: Disponibilidad para los clientes, en cualquier momento y en cualquier lugar.
 2. Intercambio de información: Permite comunicar información de interés entre compradores y vendedores. Ejemplo horarios de apertura, información de contacto, ubicación, etc.
