@@ -5,7 +5,7 @@ draft: false
 ---
 # MARKETING DIGITAL - ESTRATEGIAS
 
-[texto_de_ancla](https://www.youtube.com/watch?v=vNrxe5nJenU)
+[Video de Introduccion Marketing Digitital](https://www.youtube.com/watch?v=vNrxe5nJenU)
 
 
 **1. Marketing por email:**
