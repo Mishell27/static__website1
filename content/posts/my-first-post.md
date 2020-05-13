@@ -100,7 +100,7 @@ MARKETING DIGITAL - VENTAJAS
 ![texto_alternativo_imagen](https://www.softzone.es/app/uploads/2016/12/perdidainternet.jpg)
 
 Entre las desventajas del Marketing Digital tenemos:
-<dt> #### 1. Hay clientes que no tienen acceso a Internet. </dt>
+#### 1. Hay clientes que no tienen acceso a Internet.
 
 Existen personas que no tienen acceso a Internet, lo cual hace que exista cierta limitante entre la publicidad y una cantidad de usuarios, que por falta de un medio no puedan conocer lo nuevo.
 
