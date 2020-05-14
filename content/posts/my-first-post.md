@@ -11,10 +11,16 @@ Diseñar esta estrategia de negocio incluye varios factores que debe analizarse s
 
 ##¿Tienes las Habilidades adecuadas para iniciar un negocio en Internet?
 
+![texto_alternativo_imagen]
+(https://www.freepik.es/vector-gratis/disenador-trabajando-su-portatil_825646.htm)
+
 Antes de intentar decidir sobre un nicho o modelo de negocio, vale la pena dar un paso atrás para asegurarse de que la inversión en lí­nea sea correcta en primer lugar.Ejecutar un negocio en Internet requiere algunos rasgos fundamentales, habilidades y comprender lo que se espera en el futuro.
 
 **1.-Comunicación y redes**
 La capacidad interactuar con otros participantes en Internet es fundamental para el éxito. La creación de redes en línea ha adquirido un significado completamente nuevo en la era de Internet y, independientemente del modelo de negocio, poder interactuar con visitantes, clientes y proveedores es parte integral de la gestión de un negocio en línea. Las redes sociales como Facebook, Linkedin entre otras se han convertido rápidamente en una de las formas más populares que le permiten al emprendedor dar a conocer su negocio sin invertir grandes sumas de dinero en publicidad.
+
+![texto_alternativo_imagen]
+(https://feinternational.com/wp-content/uploads/2015/08/Dollarphotoclub_68255984.jpg)
 
 Así­ como el manejo de las redes sociales, la capacidad que tenga el propietario del sitio web de vender una idea o producto en línea no es diferente del mundo fuera de línea, y es un atributo básico de cualquier emprendedor exitoso. La comunicación no tiene que ser agresiva, de hecho, adoptar un "enfoque de venta suave" a menudo puede ser ventajoso.
 Forbes argumenta que la única habilidad real requerida para tener éxito en lí­nea es la redacción de textos publicitarios. Comprender íntimamente a un público en particular y escribir persuasivamente para comercializar un producto, servicio o idea.Al hacerse cargo de un negocio en lí­nea, es probable que la escritura sea una parte importante de la función, al menos para empezar, por lo cual si el propietario no la posee debe capacitarse para poder obtener el resultado que espera de su negocio.
@@ -129,21 +135,21 @@ Existen personas que no tienen acceso a Internet, lo cual hace que exista cierta
 
 ![texto_alternativo_imagen](https://www.softzone.es/app/uploads/2016/12/perdidainternet.jpg)
 
-#### 2. Dependencia del Internet Ã‚Â¡Y puede fallar!
+#### 2. Dependencia del Internet¡Y puede fallar!
 
-En ocasiones el Internet presenta fallas, por lo tanto el usuario puede presentar ciertos inconvenientes y por ende una muy mala experiencia. Puede ocasionar que el mismo se aleje, o en su defecto que se cree en ÃƒÂ©l una mala imagen de la empresa.
+En ocasiones el Internet presenta fallas, por lo tanto el usuario puede presentar ciertos inconvenientes y por ende una muy mala experiencia. Puede ocasionar que el mismo se aleje, o en su defecto que se cree en él una mala imagen de la empresa.
 
 #### 3. El marketing digital no escapa de ser ignorado.
 
-Puede ser ignorado por muchos, ya que existen personas que cierran las publicidades y no las ven, en caso de que sea en la televisiÃƒÂ³n cambian de canal, esto es una desventaja para las empresas.
+Puede ser ignorado por muchos, ya que existen personas que cierran las publicidades y no las ven, en caso de que sea en la televisión cambian de canal, esto es una desventaja para las empresas.
 
 #### 4. Descontento por no tener lo que vieron en la pantalla.
 
-Otra desventaja es que son muchos los usuarios que realizan las compras de forma online. Lo cual no permite el conocimiento fÃƒÂ­sico del producto que se desee adquirir. Por lo que muchas veces se genera descontento. No es lo mismo que ven en las pantallas que lo que llega a sus manos.
+Otra desventaja es que son muchos los usuarios que realizan las compras de forma online. Lo cual no permite el conocimiento físico del producto que se desee adquirir. Por lo que muchas veces se genera descontento. No es lo mismo que ven en las pantallas que lo que llega a sus manos.
 
 #### 5. El Internet genera desconfianza.
 
-Se tiene que son muchas las personas que presentan un nivel de desconfianza sobre el Internet. Ya que tienen cierto miedo a la hora de realizar compras online, porque son muchos los que han sido estafados y engaÃƒÂ±ados.
+Se tiene que son muchas las personas que presentan un nivel de desconfianza sobre el Internet. Ya que tienen cierto miedo a la hora de realizar compras online, porque son muchos los que han sido estafados y engañados.
 
 
 ## CASO DE EXITO: HISTORIA DE NETFLIX
