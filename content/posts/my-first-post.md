@@ -6,27 +6,27 @@ draft: false
 Grupo # 7
 
 # INTRODUCCION
-Actualmente el negocio en l√≠nea es la forma de Marketing con mayor fuerza a nivel mundial, cada vez m√°s empresarios y emprendedores buscan ingresar a este mercado. Pero no siempre se obtiene el √©xito esperado, no solo se trata de buscar facilitarle al usuario final un medio por el cual pueda adquirir algo sino es hacer que sienta una experiencia √∫nica que lo diferencie de otros y haga que su negocio sea la primera opci√≥n que busque.
-Dise√±ar esta estrategia de negocio incluye varios factores que debe analizarse siendo uno de los m√°s importantes "conocer las reglas del juego", una herramienta muy √∫til son los an√°lisis de mercado que permiten conocer las preferencias de los usuarios y que negocios en l√≠nea podr√°n ser los m√°s rentables.
+Actualmente el negocio en lÌ≠nea es la forma de Marketing con mayor fuerza a nivel mundial, cada vez m·s empresarios y emprendedores buscan ingresar a este mercado. Pero no siempre se obtiene el Èxito esperado, no solo se trata de buscar facilitarle al usuario final un medio por el cual pueda adquirir algo sino es hacer que sienta una experiencia ˙nica que lo diferencie de otros y haga que su negocio sea la primera opciÛn que busque.
+DiseÒar esta estrategia de negocio incluye varios factores que debe analizarse siendo uno de los m·s importantes "conocer las reglas del juego", una herramienta muy ˙til son los an·lisis de mercado que permiten conocer las preferencias de los usuarios y que negocios en lÌnea podr·n ser los m·s rentables.
 
 
-Antes de intentar decidir sobre un nicho o modelo de negocio, vale la pena dar un paso atr√°s para asegurarse de que la inversi√≥n en l√≠nea sea correcta en primer lugar.Ejecutar un negocio en Internet requiere algunos rasgos fundamentales, habilidades y comprender lo que se espera en el futuro.
+Antes de intentar decidir sobre un nicho o modelo de negocio, vale la pena dar un paso atr·s para asegurarse de que la inversiÛn en lÌ≠nea sea correcta en primer lugar.Ejecutar un negocio en Internet requiere algunos rasgos fundamentales, habilidades y comprender lo que se espera en el futuro.
 
-**1.-Comunicaci√≥n y redes**
-La capacidad interactuar con otros participantes en Internet es fundamental para el √©xito. La creaci√≥n de redes en l√≠nea ha adquirido un significado completamente nuevo en la era de Internet y, independientemente del modelo de negocio, poder interactuar con visitantes, clientes y proveedores es parte integral de la gesti√≥n de un negocio en l√≠nea. Las redes sociales como Facebook, Linkedin entre otras se han convertido r√°pidamente en una de las formas m√°s populares que le permiten al emprendedor dar a conocer su negocio sin invertir grandes sumas de dinero en publicidad.
+**1.-ComunicaciÛn y redes**
+La capacidad interactuar con otros participantes en Internet es fundamental para el Èxito. La creaciÛn de redes en lÌnea ha adquirido un significado completamente nuevo en la era de Internet y, independientemente del modelo de negocio, poder interactuar con visitantes, clientes y proveedores es parte integral de la gestiÛn de un negocio en lÌnea. Las redes sociales como Facebook, Linkedin entre otras se han convertido r·pidamente en una de las formas m·s populares que le permiten al emprendedor dar a conocer su negocio sin invertir grandes sumas de dinero en publicidad.
 
 ![texto_alternativo_imagen]https://feinternational.com/wp-content/uploads/2015/08/Dollarphotoclub_68255984.jpg
 
-As√≠ como el manejo de las redes sociales, la capacidad que tenga el propietario del sitio web de vender una idea o producto en l√≠nea no es diferente del mundo fuera de l√≠nea, y es un atributo b√°sico de cualquier emprendedor exitoso. La comunicaci√≥n no tiene que ser agresiva, de hecho, adoptar un "enfoque de venta suave" a menudo puede ser ventajoso.
-Forbes argumenta que la √∫nica habilidad real requerida para tener √©xito en l√≠nea es la redacci√≥n de textos publicitarios. Comprender √≠ntimamente a un p√∫blico en particular y escribir persuasivamente para comercializar un producto, servicio o idea.Al hacerse cargo de un negocio en l√≠nea, es probable que la escritura sea una parte importante de la funci√≥n, al menos para empezar, por lo cual si el propietario no la posee debe capacitarse para poder obtener el resultado que espera de su negocio.
+AsÌ≠ como el manejo de las redes sociales, la capacidad que tenga el propietario del sitio web de vender una idea o producto en lÌnea no es diferente del mundo fuera de lÌnea, y es un atributo b·sico de cualquier emprendedor exitoso. La comunicaciÛn no tiene que ser agresiva, de hecho, adoptar un "enfoque de venta suave" a menudo puede ser ventajoso.
+Forbes argumenta que la ˙nica habilidad real requerida para tener Èxito en lÌ≠nea es la redacciÛn de textos publicitarios. Comprender Ìntimamente a un p˙blico en particular y escribir persuasivamente para comercializar un producto, servicio o idea.Al hacerse cargo de un negocio en lÌ≠nea, es probable que la escritura sea una parte importante de la funciÛn, al menos para empezar, por lo cual si el propietario no la posee debe capacitarse para poder obtener el resultado que espera de su negocio.
 
-**2.- Estrategia, Planificaci√≥n y Organizaci√≥n**
-Los emprendedores de Internet deber√°n poder crear o ajustar una estrategia en l√≠nea. El enfoque debe estar en la creaci√≥n de un objetivo a largo plazo, que determinar√° c√≥mo se desarrolla la marca con el tiempo. A partir de esto, un emprendedor en l√≠nea deber√≠a poder determinar las actividades requeridas para alcanzar el objetivo final.
+**2.- Estrategia, PlanificaciÛn y OrganizaciÛn**
+Los emprendedores de Internet deber·n poder crear o ajustar una estrategia en lÌ≠nea. El enfoque debe estar en la creaciÛn de un objetivo a largo plazo, que determinar· cÛmo se desarrollar· la marca con el tiempo. A partir de esto, un emprendedor en lÌ≠nea deber· poder determinar las actividades requeridas para alcanzar el objetivo final.
 
-Para ello requerir√° un nivel de organizaci√≥n para ejecutar un negocio en l√≠nea. La planificaci√≥n y priorizaci√≥n de tareas, as√≠ como la organizaci√≥n de recursos, deben ser una segunda naturaleza. Si bien la organizaci√≥n es m√°s natural para algunas personas, existen muchas herramientas para ayudar a organizar y secuenciar el trabajo. 
+Para ello requerir· un nivel de organizaciÛn para ejecutar un negocio en lÌnea. La planificaciÛn y priorizaciÛn de tareas, asÌ≠ como la organizaciÛn de recursos, deben ser una segunda naturaleza. Si bien la organizaciÛn es m·s natural para algunas personas, existen muchas herramientas para ayudar a organizar y secuenciar el trabajo. 
 
-**3.-Conocimientos de Marketing en L√≠nea**
-Una apreciaci√≥n del marketing es fundamental para asumir y administrar con √©xito un negocio en l√≠nea, no hay que esconderse de la importancia de las pr√°cticas de marketing en l√≠nea. Dado que el marketing en Internet es la forma en que uno hace correr la voz acerca de sus negocios, productos y servicios, vale la pena tomarse el tiempo para familiarizarse con los conceptos b√°sicos de marketing web.
+**3.-Conocimientos de Marketing en LÌnea**
+Una apreciaciÛn del marketing es fundamental para asumir y administrar con Èxito un negocio en lÌnea, no hay que esconderse de la importancia de las pr·cticas de marketing en lÌnea. Dado que el marketing en Internet es la forma en que uno hace correr la voz acerca de sus negocios, productos y servicios, vale la pena tomarse el tiempo para familiarizarse con los conceptos b·sicos de marketing web.
 
 
 # MARKETING DIGITAL - ESTRATEGIAS
