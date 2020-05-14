@@ -6,7 +6,11 @@ draft: false
 Grupo # 7
 
 # INTRODUCCION
-Actualmente el negocio en línea es la forma de Marketing con mayor fuerza a nivel mundial, cada vez más empresarios y emprendedores buscan ingresar a este mercado. 
+Actualmente el negocio en línea es la forma de Marketing con mayor fuerza a nivel mundial, cada vez más empresarios y emprendedores buscan ingresar a este mercado. Pero no siempre se obtiene el éxito esperado, no solo se trata de buscar facilitarle al usuario final un medio por el cual pueda adquirir algo sino es hacer que sienta una experiencia única que lo diferencie de otros y haga que su negocio sea la primera opción que busque.
+Diseñar esta estrategia de negocio incluye varios factores que debe analizarse siendo uno de los más importantes "conocer las reglas del juego", una herramienta muy útil son los análisis de mercado que permiten conocer las preferencias de los usuarios y que negocios en línea podrían ser los más rentables.
+
+
+
 
 # MARKETING DIGITAL - ESTRATEGIAS
 
