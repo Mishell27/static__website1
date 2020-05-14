@@ -11,6 +11,13 @@ Diseñar esta estrategia de negocio incluye varios factores que debe analizarse 
 
 ![texto_alternativo_imagen](docs/images/hombrepensando.jpg)
 
+Antes de intentar decidir sobre un nicho o modelo de negocio, vale la pena dar un paso atrás para asegurarse de que la inversión en línea sea correcta en primer lugar.Ejecutar un negocio en Internet requiere algunos rasgos fundamentales, habilidades y comprender lo que se espera en el futuro.
+
+**1.-Comunicación y redes**
+La capacidad interactuar con otros participantes en Internet es fundamental para el éxito. La creación de redes en línea ha adquirido un significado completamente nuevo en la era de Internet y, independientemente del modelo de negocio, poder interactuar con visitantes, clientes y proveedores es parte integral de la gestión de un negocio en línea. Las redes sociales como Facebook, Linkedin entre otras se han convertido rápidamente en una de las formas más populares que le permiten al emprendedor dar a conocer su negocio sin invertir grandes sumas de dinero en publicidad.
+
+
+
 
 # MARKETING DIGITAL - ESTRATEGIAS
 
